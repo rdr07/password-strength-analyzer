@@ -431,7 +431,7 @@ st.markdown("""
   </div>
 
   <div style='text-align:center; margin-bottom: 30px;'>
-    <a href='https://www.linkedin.com/in/diya-rathod' target='_blank' style='
+    <a href='https://www.linkedin.com/in/diya-rathod-664352346' target='_blank' style='
       font-family: Share Tech Mono, monospace;
       font-size: 0.7rem;
       color: #0077b5;
@@ -442,7 +442,7 @@ st.markdown("""
       border-radius: 3px;
     '>🔗 LINKEDIN</a>
     &nbsp;&nbsp;
-    <a href='https://github.com/diya-rathod' target='_blank' style='
+    <a href='https://github.com/rdr07' target='_blank' style='
       font-family: Share Tech Mono, monospace;
       font-size: 0.7rem;
       color: #5a7a8a;
